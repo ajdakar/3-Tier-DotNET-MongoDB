@@ -167,7 +167,5 @@ To manipulate your MongoDB database using MongoDB Shell:
      db.Products.find().pretty();
      ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
